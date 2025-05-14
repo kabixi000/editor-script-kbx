@@ -3,7 +3,6 @@
     "comments": true
   },
   "rules": {
-    "no-todo": true,
-    "preset-ja-spacing": true
+    "no-todo": true
   }
 }
